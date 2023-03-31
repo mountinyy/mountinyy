@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Hi 👋, I'm San</h1>
-<h3>AI Researcher focused on NLP, Open Domain Dialogue system.
+  <h3>AI Researcher focused on NLP, Open Domain Dialogue system.</h3>
+  <h3>Currently studying for master's degree at POSTECH.</h3>
 </div>  
 
 <br><br><br>
