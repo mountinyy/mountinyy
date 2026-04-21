@@ -1,29 +1,13 @@
-<div align="center">
-<h1>Hi 👋, I'm San</h1>
-  <h3>AI Researcher focused on NLP, Open Domain Dialogue system.</h3>
-  <h3>Currently studying for master's degree at POSTECH.</h3>
-</div>  
+# San Kim
 
-<br><br><br>
+Ph.D. Student in Artificial Intelligence at POSTECH  
+Researching **LLM safety**, **value alignment**, and **trustworthy language-model systems**
 
+[Homepage](https://mountinyy.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=8GEkWDsAAAAJ&hl=ko) | [LinkedIn](http://www.linkedin.com/in/san-kim-6ab85b268) | [Email](mailto:sankm@postech.ac.kr) | [CV](https://drive.google.com/file/d/1wEO7z0TlWGWULJUdGAgYPCPpk8_zZbIi/view?usp=drive_link)
 
+## About
 
+I am a Ph.D. student in Artificial Intelligence at Pohang University of Science and Technology (POSTECH), advised by Prof. [Gary Geunbae Lee](https://scholar.google.co.kr/citations?hl=en&user=t30saScAAAAJ&view_op=list_works&sortby=pubdate).
 
-### 🚀 Interested in
-<p>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/>
-</p>
+My research focuses on building safer and more reliable large language model systems. I am especially interested in adversarial robustness of LLM pipelines, value alignment through moral reasoning, and trustworthy deployment of LLMs in safety-critical applications.
 
-
-### 📬 Find me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jtlsan1996@gmail.com)](mailto:jtlsan1996@gmail.com)
-
-<br><br>
-
-<p align="center">
-  <a href="https://github.com/mountinyy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mountinyy&show_icons=true&theme=algolia" />
-  </a>
-</p>
