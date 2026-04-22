@@ -3,7 +3,7 @@
 Ph.D. Student in Artificial Intelligence at POSTECH  
 Researching **LLM safety**, **value alignment**, and **trustworthy language-model systems**
 
-[Homepage](https://mountinyy.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=8GEkWDsAAAAJ&hl=ko) | [LinkedIn](http://www.linkedin.com/in/san-kim-6ab85b268) | [Email](mailto:sankm@postech.ac.kr) | [CV](https://drive.google.com/file/d/1wEO7z0TlWGWULJUdGAgYPCPpk8_zZbIi/view?usp=drive_link)
+[Homepage](https://mountinyy.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=8GEkWDsAAAAJ&hl=ko) | [LinkedIn](http://www.linkedin.com/in/san-kim-6ab85b268) | [Email](mailto:sankm@postech.ac.kr) | [CV](https://drive.google.com/file/d/1--wTa8AcLmDEMDj4QNfRhs66fNWOXTQH/view?usp=sharing)
 
 ## About
 
